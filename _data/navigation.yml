@@ -93,6 +93,8 @@
   url: "#"
   side: left
   dropdown:
+  - title: "EDT L1"
+    url: "/portail/etudiants/s2/"
   - title: "Campus"
     url: "/campus/"
   - title: "Bourses"
