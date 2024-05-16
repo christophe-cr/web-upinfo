@@ -105,6 +105,7 @@ Le tableau ci-dessous récapitule l'affluence aux différents concours de progra
 |---------------|---------------|-------|
 | Coding Battle | Octobre 2023  | 55    |
 | Coding Battle | Octobre 2022  | 35    |
+| Coding Battle | Octobre 2021  | 35    |
 | HashCode      | Février 2021  | 8     |
 | Coding Battle | Octobre 2020  | 40    |
 | HashCode      | Février 2019  | 79    |
