@@ -103,7 +103,9 @@ Le tableau ci-dessous récapitule l'affluence aux différents concours de progra
 
 | Concours      | Date          | #étus |
 |---------------|---------------|-------|
+| Coding Battle | Octobre 2023  | 55    |
 | Coding Battle | Octobre 2022  | 35    |
+| Coding Battle | Octobre 2021  | 35    |
 | HashCode      | Février 2021  | 8     |
 | Coding Battle | Octobre 2020  | 40    |
 | HashCode      | Février 2019  | 79    |
@@ -124,7 +126,7 @@ Le comité scientifique est composé de deux membres.
 - Arnaud Malapert, Maı̂tre de conférences, Université Côte d’Azur, CNRS, I3S.
 - Marie Pelleau, Maı̂tre de conférences, Université Côte d’Azur, CNRS, I3S.
 
-Depuis 2016, le comité scientifique a reçu l’aide d'une trentaine d'universitaires et d’étudiants.
+Depuis 2016, le comité scientifique a reçu l’aide d'une quarantaine d'universitaires et d’étudiants.
 Les niveaux d'implication varient du simple encadrement d'étudiants à la construction d'exercices originaux et de supports de cours.
 
 ### Derniers posts
