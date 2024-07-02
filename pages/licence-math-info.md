@@ -12,9 +12,20 @@ permalink: "/flicence/math-info/"
 ---
 
 
-{% include alert info="<b>Cette maquette pour 2024 est en cours de discussion.</b>" %}
 
-Responsables : {% respo mi-info %} (info) et {% respo mi-math1 %}, {% respo mi-math2 %} (math)
+
+
+{% include alert info="<b>Cette maquette est pour 2024/2025 et contient quelques erreurs à corriger .</b>" %}
+
+
+La licence Mathématique-Informatique est une filière sélective avec une formation renforcée dans les sciences mathématiques et informatiques. La formation est sur trois ans et délivre un diplôme de licence informatique et un de licence mathématiques.
+
+### S'inscrire
+Pour accéder à la première année de la licence MI il faut tout simplement indiquer cette formation lors de la candidature sur ParcoursSup comme pour toute autre licence.
+Pour l'accès à la deuxième année ou à la troisième année en provenance d'une autre licence il faudra en discuter avec les coordinateurs.
+
+
+Responsables : {% respo mi-info %} (info) et {% respo mi-math %} (math)
 
 <!-- ## Les liens sur le site du département mathématiques -->
 

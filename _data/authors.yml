@@ -38,6 +38,24 @@ olivier:
   email: "olivier.baldellon@univ-cotedazur.fr"
   upinfo: true
 
+
+issa:
+  name: "I. M. Diop"
+  prenom: "Issa-Moussa"
+  nom: "Diop"
+  grade : "ATER"
+  email: "Issa-Moussa.DIOP@univ-cotedazur.fr"
+  upinfo: true
+
+denis:
+  name: "D. Dubruel"
+  prenom: "Denis"
+  nom: "Dubruel"
+  grade: "PRCE (à partir de septembre 2024)"
+  email: "denis.dubruel@univ-cotedazur.fr"
+  upinfo: true
+
+
 brunob:
   name: "B. Beauquier"
   prenom: "Bruno"
