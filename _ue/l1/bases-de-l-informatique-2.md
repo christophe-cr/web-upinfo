@@ -13,7 +13,7 @@ categories:
 tags:
   - S2
 ects: 6
-schedule: "54h"
+schedule: "20h CM, 20h TD et 10h TP"
 # website: "#"
 author: cinzia
 #

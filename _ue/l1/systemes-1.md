@@ -12,9 +12,9 @@ categories:
   - L1
 tags:
   - S2
-ects: 3
-schedule: "39h"
-website: "#"
+ects: 6
+schedule: "20h CM et 30h TP"
+website: "#" # Il est où ton site Franck ?
 author: franck
 #
 # Styling

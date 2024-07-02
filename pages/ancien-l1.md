@@ -7,8 +7,12 @@ logo: "logo-l.png"
 header:
     image_fullwidth: "header-valrose-printemps-petite.jpg"
 
-permalink: "/licence/l1/"
+permalink: "/ancien-licence/l1/"
 ---
+
+
+{% include alert info="<b>Cette page correspond à l’année 2023/2024. Pour l’année prochaine, merci de consulter [cette page](/licence/l1) </b>" %}
+
 
 ## Organisation de la L1 à Valrose ##
 

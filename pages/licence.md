@@ -6,14 +6,11 @@ subheadline: "Généralité"
 logo: "logo-l.png"
 header:
    image_fullwidth: "header-programme-l.png"
-permalink: "/flicence/"
+permalink: "/licence/"
 ---
 
-{% comment %}
-{% include alert info="<b>Cette page sera mise à jour prochainement.</b>" %}
-{% endcomment %}
 
-{% include alert info="<b>Cette maquette pour 2024 est en cours de discussion.</b>" %}
+{% include alert info="<b>Cette page concerne l’année 2024/2025.  Pour l’année 2023/2024 le lien se trouve sur [cette page](/ancien-licence/)</b>" %}
 
 ## Présentation ##
 
@@ -68,21 +65,20 @@ Les compétences développées sont les suivantes :
 
 
 
-## Parcours recommandé ##
+## Parcours en licence informatique ##
 
-En L1 et L2, les étudiants peuvent choisir plusieurs matières
-scientifiques, pas uniquement de l'informatique. Ils sont invités à
-suivre des enseignements en mathématiques, physique, électronique,
-etc. C'est le **portail science**. A partir de la L2, les étudiants
-peuvent s'orienter vers le parcours informatique et doivent ensuite
-choisir en grande majorité des cours d'informatique en vue de valider
-une **licence d'informatique**.
+Chaque année est découpée en deux semestres. Un étudiant se doit de
+suivre 4 UE (matières) scientifique par semestre. Au premier semestre
+de L1, les étudiants du parcours informatique ne suivent qu’une UE
+d’informatique, les autres UE étant mathématiques, électronique (ou
+éventuellement un autre choix). L’idée est de faciliter les
+changements de parcours entre les disciplines scientifiques
+(mathématiques, physique, électronique, etc.).
 
+À chaque semestre, l’étudiant se spécialise dans l’informatique
+jusqu’à ne suivre que des UE d’info à partir du second semestre de L2.
 
-Afin d'obtenir la licence informatique, il est recommandé de suivre
-tous les cours d'informatique, listés ci-dessous, ainsi que des cours
-de mathématique "fondamentaux". Nous donnons ci-dessous un exemple de
-parcours type permettant de valider la licence informatique.
+Le programme de la licence informatique est détaillé ci-dessous.
 
 {% include cours-parcours entry="S1" %}
 
@@ -99,13 +95,16 @@ parcours type permettant de valider la licence informatique.
 
 ## Validation des UE et du diplôme  ##
 
-Les règles indiquées ci-dessous sont communes à toutes les disciplines de l'UFR Science. Elles sont susceptibles d'évoluer et sont données à titre purement indicatif. En cas de doute, contacter votre coordinateur d'année.
 
 ### Passage d'année ###
 
-Pour valider une année il faut valider suffisamment de crédits ECTS pour dépasser une certaine barre; il y a en fait plusieurs barres qui dépendent du type d'unité d'enseignement et de l'année en question. Il existe aussi des règles de compensation permettant de valider une UE avec une note < 10 si certaines conditions sont remplies.
+Les règles pour passer d’une année à l’autre sont indiqués sur les pages dédiées de chaque années.
 
+- [Validation de la L1]({%link pages/l1.md%}#validation)
+- [Validation de la L2]({%link pages/l2.md%}#validation)
+- [Validation de la L3 et du diplôme de licence en informatique.]({%link pages/l3.md%}#validation)
 
+{%comment%}
 ### Fonctionnement de la seconde session et de la seconde chance ###
 
 Une seconde session ou une seconde chance est accordée en cas d'UE non validée en session 1, et uniquement dans ce cas.
@@ -116,16 +115,19 @@ Une seconde session est un examen terminal similaire à celui de première sessi
 
 Le max de la note de première session et de celle de seconde session devient la note d'UE terminale.
 En particulier, l'absence en seconde session n'est pas pénalisante.
+{%endcomment%}
 
 ### Redoublement, UE avancées, UE repassées ###
 
 Un étudiant redoublant peut demander à suivre quelques UEs d'une année différente
 de son année d'inscription de manière dérogatoire.
 
-Typiquement, un étudiant qui redouble le L2 mais qui a beaucoup de "trous" dans son emploi du temps peut demander l'autorisation
+Typiquement, un étudiant qui redouble le L1 ou le L2 mais qui a beaucoup de "trous" dans son emploi du temps peut demander l'autorisation
 aux responsables pédagogiques L2 et L3
-de suivre de manière dérogatoire des UEs de L3.
+de suivre de manière dérogatoire des UEs de l’année supérieure.
 
+{%comment%}
 À partir de la rentrée 2022, il est envisagé de permettre aux étudiants redoublants de L3 de repasser une UE qu'ils ont validé.
 Ils renoncent alors à leur note de l'année précédente et s'exposent à obtenir une note inférieure.
 La mise en place de cette possibilité reste à confirmer par les coordinateurs d'année à la rentrée 2022.
+{%endcomment%}

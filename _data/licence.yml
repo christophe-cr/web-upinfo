@@ -2,12 +2,12 @@ S1:
   title: "Semestre 1"
   courses:
     - cours-id: "L1-BI-1"
-    - title: "Mathématiques : Méthode Calculus Analyse 1"
-      syllabus: "SPUM_TODO"
-    - title: "Mathématiques : Méthode Algèbre linéaire 1"
-      syllabus: "SPUM_TODO"
+    - title: "Mathématiques : Introduction à l’analyse"
+      syllabus: "SPUM100"
+    - title: "Mathématiques : Introduction l’algèbre linéaire"
+      syllabus: "SPUM101"
     - title: "Electronique  : Électronique numérique - Bases"
-      syllabus: "SPUE10"
+      syllabus: "SPUE100"
     - title: UE Compétences transversales
       uet: true
 

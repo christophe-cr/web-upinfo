@@ -11,12 +11,12 @@ permalink: "/programme/liste/"
 
 ## Syllabus of courses ##
 Please refer to <a href="https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1" target="_blank">the main description</a>
-to see which are the courses activated for your program. 
+to see which are the courses activated for your program.
 
 
+### Semestre 1
+{%include upinfo-accordion-posts category="S1" %}
 
-{%include accordion-posts category="S1" %}
 
-
-{%include accordion-posts category="S2" %}
-
+### Semestre 2
+{%include upinfo-accordion-posts category="S2" %}

@@ -6,7 +6,7 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 anonym:
-  name: "Prénom Nom, MCF/PR/PhD/MSc"
+  name: "P. Nom"
   prenom: "Prénom"
   nom: "Nom"
   email: "firstname.lastname@univ-cotedazur.fr"

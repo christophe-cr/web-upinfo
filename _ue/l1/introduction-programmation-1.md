@@ -3,8 +3,8 @@ layout: syllabus
 #
 # Content
 #
-title: "Introduction à la programmation"
-cours-id: "L1-IP"
+title: "Introduction à la programmation 1"
+cours-id: "L1-IP-1"
 logo: "logo_blanc-l.png"
 teaser: "Cours de découverte de la science informatique à travers de thématiques concrètes issues du web."
 # Une seule catégorie
@@ -14,7 +14,7 @@ categories:
 tags:
   - S1
 ects: 6
-schedule: "54"
+schedule: "18h CM, 18h TD et 18h TP"
 website: "https://lms.univ-cotedazur.fr"
 author: julien
 #
@@ -77,4 +77,4 @@ et Bases de l'informatique (SPUF10), le choix est exclusif.
 
 ###  Ressources ###
 
-- le cours SPUF11 sur [Moodle](https://lms.univ-cotedazur.fr)
+- le cours SPUS100 sur [Moodle](https://lms.univ-cotedazur.fr)

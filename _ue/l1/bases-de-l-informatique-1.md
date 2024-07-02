@@ -13,8 +13,8 @@ categories:
 tags:
     - S1
 ects: 6
-schedule: "52h"
-website: "http://deptinfo.unice.fr/~obaldellon/python"
+schedule: "18h CM, 18h TD et 18h TP"
+website: "https://upinfo.univ-cotedazur.fr/~obaldellon/python"
 author: olivier
 #
 # Styling
@@ -32,10 +32,8 @@ caption_url: https://unsplash.com/
 
 ###  Description ###
 
-Ce cours est une introduction à la programmation impérative au travers
-du langage Python. La présentation de l'UE faites pendant la période
-enjeux peut se [télécharger ici](http://deptinfo.unice.fr/~obaldellon/fichiers/présentation.pdf).
-
+Ce cours est une introduction à l’informatique et à la programmation impérative au travers
+du langage Python.
 
 ###  Calendrier ###
 
@@ -82,4 +80,4 @@ les points suivants :
 
 ###  Ressources ###
 
-- la [page publique du cours](http://deptinfo.unice.fr/~obaldellon/python)
+- la [page publique du cours](https://upinfo.univ-cotedazur.fr/~obaldellon/python)
