@@ -5,23 +5,34 @@
         {% if page.categories %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}{% endif %}</span>
 
 	{% if page.ects %}<span class="icon-check pr20"> {{ page.ects }} ECTS</span>{% endif %}
-        {% if page.schedule %}<span class="icon-calendar pr20"> {{ page.schedule }}</span>{% endif %}
+        {% if page.schedule %}<span class="icon-calendar pr20">{{ page.schedule }}</span>{% endif %}
 	<!-- <br /> -->
 	<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
 
         {% if page.website %}<span class="icon-home pr20"><a href="{{ page.website }}" target="_blank"> Site web</a></span>{% endif %}
 
         {% assign emails = "" %}
+        {% assign noms = "" %}
         {% for author in authors %}
             {% if site.data.authors[author].email %}
-                {% if emails == "" %}
-                    {% assign emails = site.data.authors[author].email %}
+                {% assign nom = site.data.authors[author].name %}
+                {% capture courriel %}{%mail%}{{author}}{%endmail%}{% endcapture %}
+
+                {% if noms == "" %}
+                   {% assign noms = nom %}
                 {% else %}
-                    {% assign emails = emails | append:"," | append:site.data.authors[author].email %}
+                    {% assign noms = noms | append:", " | append:nom}} %}
+                {% endif %}
+
+
+                {% if emails == "" %}
+                   {% assign emails = courriel %}
+                {% else %}
+                    {% assign emails = emails | append:"," | append:courriel}} %}
                 {% endif %}
             {% endif %}
         {% endfor %}
-        {% if emails != "" %}<span class="icon-mail pr20"><a href="mailto:{{ emails }}" target="_blank"> {{ emails }}</a></span>
+        {% if emails != "" %}<span class="icon-mail pr20"><a href="mailto:{{ emails }}" target="_blank"> {{ noms }}</a></span>
         {% elsif page.email %}<span class="icon-mail pr20"><a href="mailto:{{ page.email }}" target="_blank"> {{ page.email }}</a></span>{% endif %}
     </p>
 </div><!--  /.page-meta -->

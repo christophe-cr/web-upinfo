@@ -39,6 +39,36 @@ module Upinfo
   end
 
 
+  class Mail < Liquid::Block
+
+    # def initialize(tag_name, text, tokens)
+    #   super
+    #   tableau = text.split
+    #   @text = tableau[0].strip
+    #   if tableau.length() > 1
+    #     @url=tableau[1]
+    #   else
+    #     @url=false
+    #   end
+    # end
+
+    def render(context)
+      liste = context['site.data.authors']
+      @text=super
+      prof = liste[@text]
+      if prof == nil
+        raise "identifiant prof inconnue « #{@text} »"
+      end
+      # if @url==false
+      #   url=prof['email']
+      # else
+      #   url=@url
+      # end
+      anonymiser_email(prof['email'])
+    end
+  end
+
+
   class Respo < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
@@ -248,6 +278,7 @@ end
 
 
 Liquid::Template.register_tag('prof',  Upinfo::Prof)
+Liquid::Template.register_tag('mail',  Upinfo::Mail)
 Liquid::Template.register_tag('respo', Upinfo::Respo)
 Liquid::Template.register_tag('syllabus', Upinfo::Syllabus)
 Liquid::Template.register_tag('UE', Upinfo::UE)

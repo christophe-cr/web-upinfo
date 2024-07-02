@@ -35,22 +35,15 @@
     {% assign posts = site.tags.[tag] %}
 {% endif %}
 
+
 <div class="small-12 columns">
 	<dl class="accordion" data-accordion>
+        {% for cours in site.ue  %}
+          {% if cours.categories[0] == category %}
 
-    {% if posts %}
-        {% for post in posts limit:1000 offset:0 %}
-            {% include accordion-item post = post counter = counter %}
+            {% include accordion-item post = cours counter = counter %}
             {% assign counter=counter | plus:1 %}
+           {%endif%}
 	    {% endfor %}
-    {% else %}
-        {% for post in site.categories.[category] limit:1000 offset:0 %}
-
-            {% if post.tags contains tag %}
-                {% include accordion-item post = post counter = counter %}
-                {% assign counter=counter | plus:1 %}
-            {% endif %}
-        {% endfor %}
-    {% endif %}
     </dl>
 </div><!-- /.small-12.columns -->
