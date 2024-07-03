@@ -7,7 +7,7 @@ title: "Travail d'étude et de recherche"
 logo: "logo_blanc.png"
 teaser: "Le TER (Travail d’Étude et de Recherche) est un stage sous la direction d’un encadrant universitaire ou industriel qui s’effectue par groupe de 2 à 4 étudiants (ingénierie) ou seul (recherche). Il sanctionne la fin du Master 1 et s’étend sur environ 3-4 mois (1 jour par semaine)."
 categories:
-  - 
+  -
 tags:
   - REQ
 ects: 6
@@ -50,7 +50,7 @@ Vous pouvez travailler seul uniquement pour un TER Recherche. Sinon, vous devez 
     - Vendredi 18 février 2022 : fin du bonus d'affectation de sujet (1pt).
     - Mardi 1er mars 2021 : début du malus en cas d'absence de sujet (1pt / sem).
   - mi-juin 2021: rendu et évaluation des projets.
-  
+
 <!-- - Mercredi 16 juin 2021 : rendu du rapport sur moodle (INFO).
     - Jeudi 17 juin 2021 : soutenance finale (INFO).
     - Mardi 22 juin 2021 : rendu du rapport sur moodle (MIAGE).
@@ -63,9 +63,6 @@ La date limite est stricte pour le rapport.
 Pour la présentation, le jury vous demande demande simplement de la déposer AVANT votre soutenance.
 
 <!--  **Le planning détaillé des soutenances est [ici](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRIjky1rWRIQQNCN3zOJzSj4tknRX6_vkz0I1WUPfZvXGWyvf9rVDTxfMeLgzHes9VYT-pGgYYaQA1/pubhtml?gid=316413472&single=true).**  -->
-
-
-<!-- Pour les détails, consultez l'agenda de la page [EDT]({% link pages/edt1.md %}). -->
 
 
 <!---

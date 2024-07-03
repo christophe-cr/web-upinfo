@@ -6,7 +6,7 @@ subheadline: "Presentation"
 logo: "logo-m.png"
 header:
    image_fullwidth: "header-programme.png"
-permalink: "/programme/master/"
+permalink: "/master/"
 ---
 
 ### Presentation
@@ -19,6 +19,4 @@ Read the [information of the first day, schedule of courses, last things to do b
 
 
 ### Syllabus of the courses
-All courses are described [here](../../programme/liste/). 
-
-
+All courses are described [here](../../programme/liste/).

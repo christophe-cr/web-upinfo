@@ -4,7 +4,7 @@ title: "M1 news"
 subheadline: "Master 1 Informatique"
 logo: "logo-m.png"
 teaser: "This page contains the latest news on the first year for both the <i>M1 Informatique</i> and <i>M1 Intelligence Artificielle</i>   programs."
-permalink: "/edt/m1/"
+permalink: "/master/m1/"
 
 #
 # Styling
@@ -36,5 +36,5 @@ If you have questions on the courses:
 
 
 {% include page-edt-eng calendar="https://docs.google.com/document/d/e/2PACX-1vR8LDsVNIFsikaMxaB4ruK-86ThjhcZmOU9-5QeRNs9nhenXPSiTx7qrKyUh77ozhe1wbP0Rwguzr4M/pub?embedded=true" agenda="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=M2FjMmR0YTE5ajQyOTl0NmxnN2xmNG43Z2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23795548&amp;hl=en&amp;mode=WEEK"
-    
+
 %}

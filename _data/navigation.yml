@@ -66,13 +66,13 @@
 
 
 - title: "Master"
-  url: "/programme/master/"
+  url: "/master/"
   side: left
   dropdown:
   - title: "Presentation"
-    url: "/programme/master/"
+    url: "/master/"
   - title: "Alternance"
-    url: "/programme/alternance/"
+    url: "/master/alternance/"
   #- title: "Semestre 1"
   #  url: "/programme/semestre1/"
   #- title: "Semestre 2"
@@ -82,9 +82,9 @@
   #- title: "Stage"
   #  url: "/programme/stage/"
   - title: "Syllabus"
-    url: "/programme/liste/"
+    url: "/master/liste/"
   - title: "M1 news"
-    url: "/edt/m1/"
+    url: "/master/m1/"
   #- title: "M2"
   # url: "/edt/m2/"
 

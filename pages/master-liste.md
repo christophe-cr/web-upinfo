@@ -6,7 +6,7 @@ subheadline: "Syllabus of the courses"
 logo: "logo_blanc.png"
 header:
    image_fullwidth: "header-syllabus-unsplash.jpg"
-permalink: "/programme/liste/"
+permalink: "/master/liste/"
 ---
 
 ## Syllabus of courses ##
