@@ -8,7 +8,7 @@ logo: "logo-l.png"
 header:
     image_fullwidth: "header-valrose-printemps-petite.jpg"
 
-permalink: "/flicence/math-info/"
+permalink: "/licence/math-info/"
 ---
 
 

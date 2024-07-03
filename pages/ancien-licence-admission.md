@@ -6,7 +6,7 @@ subheadline: "Licence Informatique"
 logo: "logo-l.png"
 header:
    image_fullwidth: "header-programme-l.png"
-permalink: "/flicence/candidater/"
+permalink: "/ancien-licence/candidater/"
 ---
 
 

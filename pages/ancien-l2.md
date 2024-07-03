@@ -8,8 +8,13 @@ logo: "logo-l.png"
 #logo_flush: "center"
 header:
    image_fullwidth: "header-valrose-printemps-petite.jpg"
-permalink: "/licence/l2/"
+permalink: "/ancien-licence/l2/"
 ---
+
+
+
+{% include alert info="<b>Cette page correspond à l’année 2023/2024. Pour l’année prochaine, merci de consulter [cette page](/licence/l2) </b>" %}
+
 
 ## Présentation ##
 
