@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Aerial Robotic Systems: from modeling to motion planning"
 logo: "logo_blanc.png"
-teaser: "Introduction à la modélisation, aux méthodologies de contrôle et d'observateurs d'état de drones"
+teaser: "Introduction to Modeling, Control Methodologies, and State Observers for Drones and Aerial Robots"
 categories:
   - S1
 tags:
@@ -28,24 +28,19 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
-Il s'agit d'un cours d'initiation, qui permet de se remémorer les lois de la physique qui régissent la dynamique des drones, comprendre les principaux problèmes qui les concernent, et d’acquérir les principes de base que tout ingénieur est censé avoir.  
+This introductory course allows participants to review the physical laws governing drone dynamics, understand the main challenges related to them, and acquire the basic principles that every engineer should know.
 
-## Le cours comprendra 7 séances :
+The course includes seven sessions:
+An introduction and review of the main physical elements of a dynamical system (state of the system, system dynamics, control input, sensors, and output measures).
 
-Initiation et rappel des principaux éléments physiques (système dynamique, état, entrée de commande et capteurs)
+## Modelling for control design:
+Describe flight models of different types of drones and aerial robots, develop an aerodynamic model that is simple enough to be used for control system design, and provide examples of rotary and fixed-wing vehicles.
 
-## Modélisation pour le contrôle :
+## State feedback control design:
+Present the various control objectives traditionally considered, describe the linear control techniques used to provide initial solutions for these objectives, and identify the different characteristic dynamics of drones. Possible extensions (in terms of stability domain and consideration of control input saturation) will be discussed.
 
-Présenter des modèles de vol pour différents types de drones, développer une modélisation aérodynamique suffisamment simple exploitable au niveau de la synthèse de commande, et présenter des exemples de véhicules à voilures tournantes et à voilures fixes.
+## Sensor-based control:
+Introduce the concept of sensors and measurement for dynamic systems, particularly drones. Explain the relationship between control and measurement with exercises to be carried out in pairs using MATLAB-Simulink or any other programming language.
 
-## Synthèse de commandes par retour d'état :
-
-Présenter les différents objectifs de contrôle classiquement considérés et décrire les techniques de commande linéaire utilisées, afin de fournir des premières solutions pour ces objectifs d’identifier les différentes dynamiques caractéristiques des drones. Présenter également les extensions envisageables (en terme de domaine de stabilité et prise en compte de saturation des entrées de contrôle).
-
-## Commande référencée capteurs :
-
-Présenter la notion de capteur et de mesure pour un système dynamique en générale et pour les drones en particulier. Expliquer le lien entre commande et mesure avec des exercices à réaliser en binôme en utilisant, matlab-simulink ou tout entre langage de programmation.
-
-## Filtrage de données et estimation :
-
-Présenter les outils de base de la reconstruction de l'information de pose et de vitesse (absolue ou relative), et éventuellement des efforts aérodynamiques, par fusion des informations provenant de différents capteurs, proprioceptifs (centrale inertielle, baromètres, capteurs d’efforts, …) extéroceptifs (caméras et télémètres), ou absolus (GPS).
+## Data filtering and state estimation:
+Present the basic tools for reconstructing information on position and velocity (absolute or relative), and possibly aerodynamic forces, by fusing data from various sensors, whether proprioceptive (inertial measurement unit, barometers, force sensors, etc.), exteroceptive (cameras and rangefinders), or absolute (GPS).

@@ -5,7 +5,8 @@ layout: syllabus
 #
 title: "Model Checking"
 logo: "logo_blanc.png"
-teaser: "Ce cours porte sur des méthodes et des outils qui permettent de vérifier automatiquement si un système (software ou hardware) vérifie une spécification donnée."
+teaser: "This course covers methods and tools for automatically checking whether a system (software or hardware) meets a given specification.
+"
 categories:
   - S1
 tags:
@@ -28,14 +29,14 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/
 ---
+This course covers methods and tools for automatically checking whether a system (software or hardware) meets a given specification.
 
-### Programme du cours
-
-- La nécessité de méthodes formelles pour la vérification de systèmes hardware et software
-- Rappels sur les systèmes réactives
-- Le processus du model-checking et ces avantages
-- Modélisation du système (structure de Kripke)
-- Modélisation de la spécification (logiques temporelles CTL et LTL, fairness)
-- Algorithmes de model-checking et leur complexité
-- Améliorations: model-checking symbolique et model-checking à la volée
-- Exemples réalistes
+Course program
+- The need for formal methods to verify hardware and software systems
+- Reactive systems
+- The model-checking process and its advantages
+- System modeling (Kripke structure)
+- Specification modeling (CTL and LTL temporal logics, fairness)
+- Model-checking algorithms and their complexity
+- Improvements: symbolic model-checking and on-the-fly model-checking
+- Realistic examples
