@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 website: "http://www.i3s.unice.fr/~raparicio/teaching/compNetw/"
-author: chadi
+author: ramon
 #
 # Styling
 #

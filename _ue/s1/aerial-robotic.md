@@ -3,13 +3,14 @@ layout: syllabus
 #
 # Content
 #
-title: "Contrôle de drones"
+title: "Aerial Robotic Systems: from modeling to motion planning"
 logo: "logo_blanc.png"
 teaser: "Introduction à la modélisation, aux méthodologies de contrôle et d'observateurs d'état de drones"
 categories:
   - S1
 tags:
   - OPT
+  - EN
 ects: 3
 schedule: "24h"
 # website: "#"

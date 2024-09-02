@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Neural networks and learning"
+title: "AI: Models and Applications"
 logo: "logo_blanc.png"
 teaser: "The main goal of the course is to introduce the students to the different concepts of machine learning by neural networks (also several other models will be considered). For most subjects, first the formal aspects and concepts will be introduced and explained, then they will be illustrated through a series of programming exercises and experiments."
 categories:

@@ -8,7 +8,7 @@ logo: "logo_blanc.png"
 teaser: "Safety critical systems require the use of formal models and rely on exhaustive analysis techniques to ensure that a piece of software actually does what it is supposed to do (with regards to the requirements) et does it correctly (without bugs). This lecture gives an overview of some techniques and languages used in that context."
 
 categories:
-  - S1
+  - S2
 tags:
   - OPT
   - EN

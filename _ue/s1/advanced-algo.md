@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Graphes et programmation dynamique"
+title: "Advanced Algorithms"
 logo: "logo_blanc.png"
 teaser: "Les graphes sont un objet mathématique très simple composé d'un ensemble de sommets dont certains sont deux à deux reliés par des arêtes. Malgré leur simplicité, ils modélisent des situations très variées et de nombreux problèmes d'optimisation sont formulés en termes de graphes. Le cours introduira les notions de base sur les graphes, leurs représentations en mémoire, les problèmes algorithmiques classiques sur ces objets et les techniques pour les résoudre.
 
@@ -19,6 +19,7 @@ categories:
   - S1
 tags:
   - OPT
+  - EN
 ects: 3
 schedule: "24h"
 # website: "#"
