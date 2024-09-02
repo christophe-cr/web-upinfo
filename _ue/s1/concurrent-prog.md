@@ -5,7 +5,7 @@ layout: syllabus
 #
 title: "Concurrent Programming"
 logo: "logo_blanc.png"
-teaser: "In this course we will study how to design and implement parallel algorithms for modern multicore machines."
+teaser: "In this course we will study how to design and implement concurrent algorithms for modern multicore machines."
 categories:
   - S1
 tags:
@@ -14,7 +14,7 @@ tags:
 ects: 3
 schedule: "24h"
 # website: "#"
-author: cinzia
+author: cinzia, etienne
 #
 # Styling
 #
@@ -29,12 +29,20 @@ header:
   caption_url: https://unsplash.com/
 ---
 
-The aim of this course is to provide an introduction to parallel programming on shared memory machines (i.e. multicore machines). After this course you will have a better understanding of the challenges and benefits of multi-threaded computations. We will focus mainly on algorithms and their implementation using high level libraries, not low level mechanism like semaphores and monitors.
 
 
-After a short introduction/motivation, we will focus on the P-RAM model, an extension of the Random Access Machine, which provides a theoretical framework for writing and reasoning on parallel algorithms. We will show that not all P-RAM are equals but you can simulate one with another, at a cost. We will study the SCAN/PREFIX algorithms which is often at the heart of many parallel computations. Finally we will move to the sorting network model which, as the name implies, is very efficient for writing sorting algorithms.
+Concurrent programming is a method of designing software where multiple computations run simultaneously, enabling programs to handle multiple tasks at once. 
 
-During the lab sessions we will be using C and OpenMP, a standard library for parallel computing.
+At its core, concurrent programming allows for the execution of different parts of a program independently, often leveraging multi-core processors to perform tasks faster. This can be implemented through various paradigms such as threads, processes, or asynchronous programming.
+
+Threads are lightweight processes that share the same memory space, allowing for communication between them. However, this shared memory can lead to issues like race conditions, where the outcome of operations depends on the sequence of execution. To manage these, synchronization mechanisms like locks, semaphores, and monitors are used.
+
+Processes, on the other hand, run in separate memory spaces, which avoids some of the pitfalls of threading but at the cost of higher resource usage.
+
+Asynchronous programming, often seen in event-driven architectures, enables a program to handle I/O-bound tasks efficiently by not blocking the execution while waiting for a task to complete.
+
+There exists  a rich theory of concurrency, including models of concurrency and verification. In this course we will talk about principles, methods, and implementations of concurrent programming.
+
 
 
 
@@ -43,9 +51,14 @@ During the lab sessions we will be using C and OpenMP, a standard library for pa
 - Moodle Pages
 - Introduction to Parallel Computing. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, Addison Wesley, 2003. 
 - Introduction to Parallel Computing: From Algorithms to Programming on State-of-the-Art Platforms. Roman Trobec, Boštjan Slivnik, Patricio Bulić, Borut Robič. Springer 2018.
+- Greg Andrews, Foundations of Multithreaded, Parallel, and Distributed Programming, Addison-Wesley, 2000.
+
 
 
 
 ### Evaluation ###
+50% Written Exam
+50% Lab project
+
 
 
