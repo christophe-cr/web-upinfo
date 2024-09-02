@@ -7,9 +7,10 @@ title: "Model Checking"
 logo: "logo_blanc.png"
 teaser: "Ce cours porte sur des méthodes et des outils qui permettent de vérifier automatiquement si un système (software ou hardware) vérifie une spécification donnée."
 categories:
-  - S3
+  - S1
 tags:
   - OPT
+  - EN
 ects: 3
 schedule: "24h"
 # website: ""

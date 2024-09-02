@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Parallelism"
+title: "Concurrent Programming"
 logo: "logo_blanc.png"
 teaser: "In this course we will study how to design and implement parallel algorithms for modern multicore machines."
 categories:
@@ -48,5 +48,4 @@ During the lab sessions we will be using C and OpenMP, a standard library for pa
 
 ### Evaluation ###
 
-- 1.5h written exam : 60%
-- 1 individual project : 40%
+

@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Internet of Things (IoT) : software components"
+title: "Software Components and Services for Internet of Things (IoT) "
 logo: "logo_blanc.png"
 teaser: "The Internet of Things (IoT)
 creates opportunities for more direct integration of the physical

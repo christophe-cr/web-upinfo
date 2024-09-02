@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Résolution de problèmes"
+title: "Problem Solving"
 teaser: "Ce cours a pour objectif de montrer comment des problèmes de la vie réelle peuvent être résolus, tels que l’allocation de portes d’embarquement aux avions, la recherche de chemins sous contraintes, etc. 
 Différents types de méthodes seront présentées, comme les algorithmes gloutons, la recherche locale et la programmation par contraintes."
 # On utilisera la programmation par contraintes afin de résoudre ces problèmes.
@@ -11,6 +11,7 @@ categories:
   - S1
 tags:
   - OPT
+  - EN
 ects: 3
 schedule: "24h"
 # website: "#"
