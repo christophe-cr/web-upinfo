@@ -5,11 +5,11 @@ layout: syllabus
 #
 title: "Gestion de projet"
 logo: "logo_blanc.png"
-teaser: "Les notions clés abordées dans ce cours sont l’intégration continue et le déploiement automatique."
+teaser: "Ce cours est conçu pour fournir une formation pratique et détaillée sur la planification et le suivi de projets informatiques."
 categories:
   - S1
 tags:
-  - OPT
+  - GP
   - FR
 ects: 3
 schedule: "24h"
@@ -27,13 +27,29 @@ header:
 #    caption: This is a caption for the header image with link
   caption_url: https://unsplash.com/  
 ---
-L’objectif est de poursuivre l’apprentissage du Génie Logiciel commencé au semestre 1 dans les cours Projet de Développement et Génie Logiciel. 
-Les notions clés abordées dans ce cours sont :
-- l'architecture logicielle pour l'interopérabilité (Web Services, architecture REST, principes stateful/stateless)
-- les tests d'intégration et l'approche BDD (Behavior-Driven Development)
-- l’intégration continue et le déploiement automatique (serveur d'intégration continue, containerisation)
+## Description du cours
 
-### Modalités de contrôle des connaissances ###
- - Contrôles : 1 Contrôle continu minimum.
- - Contrôle terminal écrit de 2h comptant pour 60% de la note.
- - 2nde session = écrit de 1h30
+Ce cours est conçu pour fournir une formation pratique et détaillée sur la planification et le suivi de projets informatiques. Les étudiants apprendront à utiliser des outils et méthodes pour définir, planifier et suivre efficacement des projets informatiques en s'appuyant sur des approches à la fois séquentielles et agiles. Le cours se concentre sur l'application concrète de techniques opérationnelles pour gérer des projets de diverses envergures, des activités de planification initiale jusqu'au suivi régulier du progrès et de l'ajustement des actions.
+
+## Objectifs et champs d'application
+
+- **Planification de projet** : Techniques de décomposition du projet, choix des outils adaptés pour spécifier le contenu du projet (comme UML, storyboard, WBS), organisation des activités et évaluation des ressources nécessaires.
+- **Suivi de projet** : Méthodes pour établir et analyser les indicateurs de performance, utilisation de tableaux de bord pour le suivi et l'ajustement des plans de projet.
+
+## Méthodologie et mise en œuvre
+
+- **Approches séquentielles et agiles** : Application pratique des deux méthodologies pour montrer comment elles peuvent être adaptées selon le contexte du projet, avec des études de cas et des simulations.
+- **Utilisation de logiciels de gestion de projets** : Formation sur les principales fonctionnalités des outils de gestion de projets pour optimiser la planification et le suivi.
+
+## Compétences visées
+
+À l'issue de ce cours, l'étudiant sera capable de :
+
+- Appliquer des méthodes de découpage et de planification dans des contextes de projets informatiques, en choisissant les outils méthodologiques les plus pertinents.
+- Spécifier et organiser les livrables et les activités de projet de manière efficace.
+- Évaluer et optimiser l'utilisation des ressources pour la réalisation des projets.
+- Mettre en place un suivi opérationnel du projet à travers des indicateurs de performance et des tableaux de bord, permettant des ajustements dynamiques.
+- Gérer la communication avec toutes les parties prenantes pour assurer la transparence et l'alignement des objectifs.
+- Rédiger des comptes rendus d'avancement et piloter les réunions de projet de manière professionnelle.
+
+Ce cours est idéal pour les étudiants souhaitant acquérir une expertise en gestion de projet informatique avec une orientation forte vers l'application pratique des méthodes de planification et de suivi dans des environnements professionnels.
