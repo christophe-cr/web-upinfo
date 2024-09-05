@@ -92,7 +92,7 @@
   side: left
   dropdown:
   - title: "EDT L1"
-    url: "/portail/etudiants/s2/"
+    url: "/portail/etudiants/s1/"
   - title: "Campus"
     url: "/campus/"
   - title: "Bourses"
@@ -130,6 +130,8 @@
   url: "#"
   side: left
   dropdown:
+    - title: "EDT L1 (portail SITE)"
+      url: "/portail/etudiants/s1/"
     - title: "Licence informatique"
       url: "/divers/rentree-licence-2024-2025/"
     - title : "Master informatique"
