@@ -17,7 +17,7 @@ author: winter
 #
 # Styling
 #
-image:
+image: 
   thumb: "header-syllabus-unsplash-thumb.jpg"
   homepage: "header-syllabus-unsplash.jpg"
 #  caption: "https://unsplash.com/"
