@@ -48,6 +48,8 @@ The course slides will be updated as the course progresses.
  - [Modelization]({% include link-asset asset="0-Modelisation_handout.pdf" %}) ; [4 slides per page]({% include link-asset asset="0-Modelisation_x4.pdf" %}) ; [2 slides per page + notes]({% include link-asset asset="0-Modelisation_x2+notes.pdf" %})
  - [Greedy Algorithms]({% include link-asset asset="1-Algorithmes-Gloutons_handout.pdf" %}) ; [4 slides per page]({% include link-asset asset="1-Algorithmes-Gloutons_x4.pdf" %}) ; [2 slides per page + notes]({% include link-asset asset="1-Algorithmes-Gloutons_x2+notes.pdf" %})
  - [Local Search]({% include link-asset asset="2-Recherche-Locale_handout.pdf" %}) ; [4 slides per page]({% include link-asset asset="2-Recherche-Locale_x4.pdf" %}) ; [2 slides per page + notes]({% include link-asset asset="2-Recherche-Locale_x2+notes.pdf" %})
+ - [Constraint Programming]({% include link-asset asset="3-Programmation-Par-Contraintes_handout.pdf" %}) ; [4 slides per page]({% include link-asset asset="3-Programmation-Par-Contraintes_x4.pdf" %}) ; [2 slides per page + notes]({% include link-asset asset="3-Programmation-Par-Contraintes_x2+notes.pdf" %})
+
 
 ### Hashcode ###
 
