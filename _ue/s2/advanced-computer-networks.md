@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Internet of the future"
+title: "Advanced Computer Networks"
 logo: "logo_blanc.png"
 teaser: "<strong>This course is not available in 2020-2021.</strong> </br>This course aims to present the most recent trends, technologies and protocols deployed in Internet nowadays. "
 categories:

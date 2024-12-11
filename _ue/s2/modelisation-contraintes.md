@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Méthodes avancées PPC/PL"
+title: "Modélisation par Contraintes"
 logo: "logo_blanc.png"
 teaser: "Nous introduisons la programmation linéaire tout en continuant l'apprentissage de la modélisation PPC/PL avec un solveur très utilisé dans l'industrie."
 categories:

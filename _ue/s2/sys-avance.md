@@ -3,7 +3,7 @@ layout: syllabus
 #
 # Content
 #
-title: "Advance OS"
+title: "Systèmes d'exploitation avancé"
 logo: "logo_blanc.png"
 teaser: "We will learn some internal concepts on operating systems and their kernels."
 categories:

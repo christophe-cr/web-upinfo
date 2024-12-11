@@ -75,8 +75,8 @@
     url: "/master/m1/"
   - title: "M1 Syllabus"
     url: "/master/liste" 
-  - title: "M2 Informatique Fondamentale"
-    url: "/master/m2/"
+  #- title: "M2 Informatique Fondamentale"
+  #  url: "/master/m2/"
   - title: "Alternance"
     url: "/master/alternance/"
 
