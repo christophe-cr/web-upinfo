@@ -1,4 +1,5 @@
 ---
+layout: syllabus
 categories:
   - S2
 tags:
