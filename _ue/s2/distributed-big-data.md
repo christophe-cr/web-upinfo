@@ -1,31 +1,23 @@
 ---
-layout: syllabus
-#
-# Content
-#
-title: "Distributed Big Data for AI"
-logo: "logo_blanc.png"
-teaser: ""
 categories:
   - S2
 tags:
   - OPT
+  - EN
 ects: 3
 schedule: "24h"
-# website: "#"
-author: etienne
-#
-# Styling
-#
-image:
-  thumb: "header-syllabus-unsplash-thumb.jpg"
-  homepage: "header-syllabus-unsplash.jpg"
-#  caption: "https://unsplash.com/"
-  url: "https://unsplash.com/"
-header:
-  image_fullwidth: "header-syllabus-unsplash.jpg"
-#    caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/  
+author:
+- etienne
+title: "Distributed Big Data For AI"
+teaser: "This lecture aims at introducing some concepts around distributed data management: replicated data consistency, distributed file systems, map-reduce, etc. The lecture will provide also a concrete experience with labs oriented as a project."
 ---
 
+Tentative syllabus
 
+Topic 1: Introduction to parallelism
+Topic 2 : Storing Big Data
+Topic 3: Processing Big Data
+
+Lab 1 : Introduction to Apache Spark
+Lab 2 : Machine Learning with Spark
+Lab 3 : Kafka and Spark streaming.
