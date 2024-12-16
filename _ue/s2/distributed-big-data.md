@@ -7,8 +7,7 @@ tags:
   - EN
 ects: 3
 schedule: "24h"
-author:
-- etienne
+author: etienne
 title: "Distributed Big Data For AI"
 teaser: "This lecture aims at introducing some concepts around distributed data management: replicated data consistency, distributed file systems, map-reduce, etc. The lecture will provide also a concrete experience with labs oriented as a project."
 ---
