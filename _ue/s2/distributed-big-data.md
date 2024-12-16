@@ -15,10 +15,10 @@ teaser: "This lecture aims at introducing some concepts around distributed data 
 
 Tentative syllabus
 
-Topic 1: Introduction to parallelism
-Topic 2 : Storing Big Data
-Topic 3: Processing Big Data
+- Topic 1: Introduction to parallelism
+- Topic 2 : Storing Big Data
+- Topic 3: Processing Big Data
 
-Lab 1 : Introduction to Apache Spark
-Lab 2 : Machine Learning with Spark
-Lab 3 : Kafka and Spark streaming.
+- Lab 1 : Introduction to Apache Spark
+- Lab 2 : Machine Learning with Spark
+- Lab 3 : Kafka and Spark streaming.
