@@ -35,7 +35,7 @@ scolarité à l’adresse :</b>
 - [licence-info.responsable@univ-cotedazur.fr](mailto:licence-info.responsable@univ-cotedazur.fr)
 - {% respo secrétaire %} : assistante administrative et pédagogique
 - {% respo licence-a licence-info.responsable@univ-cotedazur.fr %} et
-{% respo licence-b licence-info.responsable@univ-cotedazur.fr %}: responsables licences.
+{% respo licence-b licence-info.responsable@univ-cotedazur.fr %}: responsables licence.
 - {% respo L1 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L1.
 - {% respo L2 licence-info.responsable@univ-cotedazur.fr %} : coordinatrice L2.
 - {% respo L3 licence-info.responsable@univ-cotedazur.fr %} : coordinateur L3.
